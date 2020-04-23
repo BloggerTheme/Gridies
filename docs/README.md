@@ -1,3 +1,0 @@
-# Wrapblogger
-
-Wrapblogger resources.
